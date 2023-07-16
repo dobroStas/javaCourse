@@ -1,0 +1,6 @@
+.git
+arr
+Homework2(log).txt
+java_projects
+Seminar2-1.txt
+Seminar2-2(log).txt

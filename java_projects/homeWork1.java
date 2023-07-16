@@ -62,7 +62,10 @@ public class homeWork1 {
         sc.close();
       
     }
+    static String getType(Object o) {
+        return o.getClass().getSimpleName() ;
 
+    }
 
 
 }
