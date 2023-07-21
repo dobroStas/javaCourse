@@ -24,7 +24,7 @@ public class program {
        
         // System.out.println(Character.isDigit(ch));  //false
         // System.out.println(ch);  //a
-        //  ch = 123;
+        // ch = 123;
         // System.out.println(ch);  //{
 
         // int a = 13;
